@@ -1,6 +1,7 @@
 ## Hi there 👋 <br/>
 
-My name is Daniele, welcome to my :space_invader: github profile :video_game: :smiley: <br/>
+My name is Daniele, I am a software developer and game programmer. <br/>
+Welcome to my :space_invader: github profile :video_game: :smiley: <br/>
 
 
 
