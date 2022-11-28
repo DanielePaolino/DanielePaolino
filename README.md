@@ -94,6 +94,19 @@ https://user-images.githubusercontent.com/58630239/203837330-ce09a772-7ac8-4bea-
 
  <ol/>
 </details>
+   
+ <details>
+ <summary>Scanner :satellite: </summary>
+ <ol>
+
+https://user-images.githubusercontent.com/58630239/204337040-528a361d-d0d3-49ab-b5f7-92467fb2f29a.mp4
+
+  Followed this tutorial: https://www.youtube.com/watch?v=pbRWRinsbWM  made by  https://github.com/leonhardrobin <br/>
+  Learned some cool concepts and actually trying to implement some gameplay features. Give it a look :)
+  
+  
+ <ol/>
+</details>
 
 
 ### Social
